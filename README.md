@@ -66,11 +66,6 @@ This project showcases SQL queries performed on the `invoice_data` table. The qu
 
 ## 📌 Aggregate Functions
 
-### ▶️ Total Revenue
-**Description:** Calculates the total sales revenue by multiplying quantity with unit price.
-
-![Total Revenue Output](total_revenue_output.png)
-
 ### ▶️ Average Order Value
 **Description:** Calculates the total and average order value for each invoice.
 
