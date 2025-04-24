@@ -31,14 +31,6 @@ This project showcases SQL queries performed on the `invoice_data` table. The qu
 
 ---
 
-## 📌 Creating New Table: Customers
-
-**Description:** Creates a new table of customers with distinct CustomerIDs and a custom name format (e.g., `Customer_12345`).
-
-![Customer Table Output](customers_table.png)
-
----
-
 ## 📌 Using JOINS
 
 ### ▶️ INNER JOIN
