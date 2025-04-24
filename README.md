@@ -80,20 +80,11 @@ This project showcases SQL queries performed on the `invoice_data` table. The qu
 
 ## 📌 Using Views
 
-### ▶️ Revenue by Country
-**Description:** A view showing the total revenue grouped by country.
-
-![Revenue by Country View](revenue_by_country_view.png)
-
 ### ▶️ Average Spend per Customer
 **Description:** A view showing the average amount spent by each customer.
 
 ![Avg Spend View](avg_spend_view.png)
 
-### ▶️ Top 5 Invoices
-**Description:** A view listing the top 5 invoices with the highest total amount.
-
-![Top 5 Invoices View](top_5_invoices_view.png)
 
 ---
 
