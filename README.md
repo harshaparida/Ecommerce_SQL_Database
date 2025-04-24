@@ -14,15 +14,10 @@ This project showcases SQL queries performed on the `invoice_data` table. The qu
 
 ## 📌 Using SELECT, WHERE, ORDER BY, GROUP BY
 
-### ▶️ Select All Records
-**Description:** Displays all records from the invoice data table.
-
-![All Data Output](invoice_data_output_2.png)
-
 ### ▶️ Filter by Country
 **Description:** Fetches InvoiceNo and Country for records where the country is United Kingdom.
 
-![uk Data Output](invoice_data_uk.png)
+![All Data Output](invoice_data_output_2.png)
 
 ### ▶️ Quantity Filter with Ordering
 **Description:** Retrieves invoices where quantity is greater than 100 and sorts by UnitPrice in descending order.
